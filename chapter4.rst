@@ -72,14 +72,14 @@ I. 图像模糊
 1. 检查[彩色]，调整投影图像的色彩饱和度。
 按
 
-.. image:: images/上下.png
+.. image:: images/上下1.png
    :scale: 50%
    :align: left
 
 选择[彩色]。
     按
 
-.. image:: images/左右.png
+.. image:: images/左右1.png
    :scale: 50%
    :align: left
 
@@ -88,7 +88,7 @@ I. 图像模糊
 
     按
 
-.. image:: images/左右.png
+.. image:: images/左右1.png
    :scale: 50%
    :align: left
 
@@ -102,14 +102,14 @@ I. 图像模糊
 2. 检查[色度]，调整投影图像的肤色。
 按
 
-.. image:: images/上下.png
+.. image:: images/上下1.png
    :scale: 50%
    :align: left
 
 选择[色度]。
     按
 
-.. image:: images/左右.png
+.. image:: images/左右1.png
    :scale: 50%
    :align: left
 
@@ -118,7 +118,7 @@ I. 图像模糊
 
     按
 
-.. image:: images/左右.png
+.. image:: images/左右1.png
    :scale: 50%
    :align: left
 
@@ -158,7 +158,7 @@ RGB 线缆损坏
 
 4. 按
 
-.. image:: images/上下.png
+.. image:: images/上下1.png
    :scale: 50%
    :align: left
 
@@ -194,7 +194,7 @@ RGB 线缆损坏
 
 3. 按
 
-.. image:: images/左右.png
+.. image:: images/左右1.png
    :scale: 50%
    :align: left
 
@@ -266,8 +266,8 @@ RGB 线缆损坏
    :scale: 50%
    :align: center
 
- Ⅵ.没有图像出现
-*****************
+Ⅵ.没有图像出现
+*********************
 
 **故障描述：开启投影机后，未能显示图像**
 
@@ -340,11 +340,11 @@ RGB 线缆损坏
 
 1. 按
 
-.. image:: images/上下.png
+.. image:: images/上下1.png
    :scale: 50%
    :align: left
 
-.. image:: images/左右.png
+.. image:: images/左右1.png
    :scale: 50%
    :align: left
 
@@ -362,7 +362,7 @@ RGB 线缆损坏
 
 5. 显示确认画面时，按
 
-.. image:: images/左右.png
+.. image:: images/左右1.png
    :scale: 50%
    :align: left
 
@@ -465,7 +465,7 @@ RGB 线缆损坏
 2. 如果采取措施后光源指示灯<光源>依然点亮或闪烁，请关闭投影机并断开电源线，联系经销商维进行维修。
 
 Ⅹ.HDMI设备视频音频播放不正确
-**************************
+****************************
 
 **故障描述：**
 
@@ -490,7 +490,7 @@ HDMI设备不能正确播放视频音频。
 
 1. 按
 
-.. image:: images/上下.png
+.. image:: images/上下1.png
    :scale: 50%
    :align: left
 
@@ -500,14 +500,14 @@ HDMI设备不能正确播放视频音频。
 
 3. 按
 
-.. image:: images/上下.png
+.. image:: images/上下1.png
    :scale: 50%
    :align: left
 
 选择“计时器”
 4. 按
 
-.. image:: images/左右.png
+.. image:: images/左右1.png
    :scale: 50%
    :align: left
 
